@@ -1,0 +1,24 @@
+{
+  "name": "waivey",
+  "version": "0.0.1",
+  "description": "Electronic waiver management in Node.js",
+  "main": "waivey.js",
+  "scripts": {
+    "test": "echo \"no tests\"; exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericuldall/waivey.git"
+  },
+  "keywords": [
+    "waiver",
+    "electronic",
+    "online"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericuldall/waivey/issues"
+  },
+  "homepage": "https://github.com/ericuldall/waivey"
+}
